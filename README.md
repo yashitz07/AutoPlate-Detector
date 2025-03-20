@@ -76,14 +76,7 @@ Filters out small regions that are not part of the number plate.
 
 Extracts the bounding box of the detected number plate and displays it.
 
-## Sample Results
 
-### Input Image
-An example input image of a vehicle with a visible license plate.
-![Input Image](Vehicle1.jpg)
-### Detected Number Plate
-The processed image highlighting the extracted number plate region.
-![Input Image](Fig1 Vehicle1_ouput1.jpg)
 ## Future Improvements
 - **Implement Optical Character Recognition (OCR)** to extract plate numbers.
 - **Enhance accuracy** using deep learning-based approaches.
@@ -92,4 +85,4 @@ The processed image highlighting the extracted number plate region.
 ## License
 This project is open-source and available under the **MIT License**.
 
-🚀 **Developed by Your Name**
+🚀 **Developed by Yash Patel**
